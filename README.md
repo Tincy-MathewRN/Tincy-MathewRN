@@ -1,16 +1,20 @@
-## Hi there 👋
+# Tincy Mathew
 
-<!--
-**Tincy-MathewRN/Tincy-MathewRN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-Founder of Medline Academy® | NCLEX-RN Educator | NGN (CJM) Expert
 
-Here are some ideas to get you started:
+## About Me
+I am an NCLEX-RN educator and Co-Founder of Medline Academy®, helping nurses achieve global RN careers in USA, Canada, and Australia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+- NCLEX-RN Training
+- NextGen NCLEX (NGN)
+- Clinical Judgment Model (CJM)
+- Nursing Education
+- Mentorship
+
+## Links
+- Website: https://tincymathew.com
+- Medline Academy: https://medlinenclexrn.com
+- LinkedIn: https://www.linkedin.com/in/tincymathew
+- Wellfound: https://wellfound.com/u/tincy-mathew
+- ORCID: https://orcid.org/0009-0009-0240-1231
