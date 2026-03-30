@@ -18,3 +18,5 @@ I am an NCLEX-RN educator and Co-Founder of Medline Academy®, helping nurses ac
 - LinkedIn: https://www.linkedin.com/in/tincymathew
 - Wellfound: https://wellfound.com/u/tincy-mathew
 - ORCID: https://orcid.org/0009-0009-0240-1231
+
+🔗 Official Links: https://github.com/Tincy-MathewRN/Tincy-Mathew-Official-Links
